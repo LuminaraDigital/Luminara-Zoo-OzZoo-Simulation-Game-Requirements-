@@ -1,0 +1,10 @@
+# Luminara Zoo — base runtime
+# Python 3.11+ required. The core game uses the standard library only.
+#
+# Optional installs (pick what you need):
+#   pip install -r requirements-rich.txt
+#   pip install -r requirements-ai.txt
+#
+# Editable install with extras:
+#   pip install -e ".[rich]"
+#   pip install -e ".[ai]"

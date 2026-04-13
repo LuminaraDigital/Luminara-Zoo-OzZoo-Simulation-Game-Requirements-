@@ -1,0 +1,10 @@
+# Nous Research Hermes Agent (source install).
+# Official repository: https://github.com/NousResearch/hermes-agent.git
+#
+# Install (from project root, with a virtual environment activated):
+#   pip install -r requirements-hermes.txt
+#
+# Equivalent optional extra (see pyproject.toml):
+#   pip install -e ".[hermes]"
+
+hermes-agent @ git+https://github.com/NousResearch/hermes-agent.git
