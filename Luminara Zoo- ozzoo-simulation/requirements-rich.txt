@@ -1,4 +1,0 @@
-# Optional: prettier CLI tables (matches Tutorial recommendation).
-# pip install -r requirements-rich.txt
-
-rich>=13.0,<16
